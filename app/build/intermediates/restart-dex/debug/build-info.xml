@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="218067618082429"
+    token="1365646400209885406"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="582" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="224" />
+    <task
+        name="verifier"
+        duration="58" />
+
+    <artifact
+        location="G:\zanyang\MqttClientAndroid-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="218067618082429"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="G:\zanyang\MqttClientAndroid-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

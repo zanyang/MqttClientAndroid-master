@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42d5ed0311ee0996bed70af0febd919af01cd01e">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1b3d9d50cb2a5ced8bed096bc0adb36c42bf2ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_studio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_526ebb89a34d5dc566659fa2ccb3d81db839e06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_f9af8f88a2fd723e9f7371301ccec6770121524b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ace234ece4d756bfcf2e27e735f5566f8facf415">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\instant-run_4cf37060a134a3d11b9a5eda7b19c7f8bf8f754e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_64e50157701f3aca4cf23db989aa0b0258ea769f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_12e1ef42e0ab5b5983d87fbd26569370cde0108d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_fe160c8fe2cb12cc124d113afe6ae72af1755f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lzy\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2_5c03df762a227b88cd3f018d471a845553255e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.github.LichFaker\Logger\v1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="faa26175f8b41a8c4929afd579d5c2cd29ce3926">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\com.github.LichFaker-Logger-v1.0.0_f7854cf07f884c4e861a16383bc42b5f0c75df7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_b4abd36855d8f26316c14a1bf31569c44f059508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lzy\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="G:\zanyang\MqttClientAndroid-master\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_09606d675c54444df354b43204e29ee3e8a4d49c.jar" />
+    </item>
+
+</items>
